@@ -1,15 +1,23 @@
-### Date created
-Include the date you created this project and README file.
+# bikeshare
+## Introduction
+This is part of Udacity Python foundation course that uses knowledge of Python's modules- Pandas and Numpy, to make sense of the bike sharing data provided, and answer relevant questions about it.
 
-### Project Title
-Replace the Project Title
+## How to use
+This repository contains-
+1. Three csv files with data for three cities- <i>chicago.csv</i>, <i>new_york_city.csv</i>, <i>washington.csv</i>.
+2. One python file written to assess the data in the csv files- <i>bikeshare.py</i>.
 
-### Description
-Describe what your project is about and what it does
+To use the project-
+1. Place the <i>bikeshare.py</i> file and all the CSV files in the same folder.
+2. Run the python file using a suitable python interpreter.
 
-### Files used
-Include the files used
+## Resources
+To complete the project, I used my knowledge which I gained over the course of studying the Python Foundation Nanodegree Program on Udacity.
+If I got stuck some place, the source(s) below helped me-
+1. [Stackoverflow](https://stackoverflow.com/)
+2. [Python documentation](https://docs.python.org/3/library/)
+3. [Tutorials Point](https://www.tutorialspoint.com/python/)
+4. [Pandas Documentation](https://pandas.pydata.org/pandas-docs/version/0.17.0/)
+5. I used [Jupyter Notebook](http://jupyter.org/) extensively for quickly running small snippets of code, and [Atom editor](https://atom.io/) for bigger pieces of code.
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+##### To install and setup Python 3.6- go [here](about:blank).
