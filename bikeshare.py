@@ -34,6 +34,7 @@ WEEK_DATA = { 'monday': 0,
                 'sat': 5,
                 'sun': 6}
 
+
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
