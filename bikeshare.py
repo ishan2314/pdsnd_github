@@ -205,6 +205,7 @@ def station_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
+#After this
 
 def trip_duration_stats(df):
     """Displays statistics on the total and average trip duration."""
@@ -309,7 +310,7 @@ def main():
         user_stats(df)
         display_data(df)
 
-        restart = input('\nWould you like to restart? Enter yes or no.\n').lower()
+        restart = input('\nWould you like to restart now? Enter yes or no.\n').lower()
         print()
         if restart != 'yes' and restart != 'y' and restart != 'yus':
             break
