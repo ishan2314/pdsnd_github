@@ -8,7 +8,7 @@ This repository contains-
 2. One python file written to assess the data in the csv files- <i>bikeshare.py</i>.
 
 To use the project-
-1. Place the <i>bikeshare.py</i> file and all the CSV files in the same folder.
+1. First Place the <i>bikeshare.py</i> file and all the CSV files in the same folder.
 2. Run the python file using a suitable python interpreter.
 
 ## Resources
